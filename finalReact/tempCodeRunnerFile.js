@@ -1,0 +1,1 @@
+arr.forEach(a=>setTimeout(f,a,a));
